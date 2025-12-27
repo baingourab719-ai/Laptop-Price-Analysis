@@ -1,4 +1,5 @@
 📊 Laptop Price Analysis using Python
+
 📌 Project Overview
 
 This project focuses on analyzing laptop pricing data to understand how hardware specifications, brand positioning, and product features influence laptop prices. The analysis aims to derive business-ready insights that can support pricing strategy and product decision-making.
@@ -61,10 +62,13 @@ The mid-range segment shows the highest market competition.
 
 laptop-price-analysis/
 ├── data/
+
 │   └── laptop_prices.csv
 ├── notebook/
+
 │   └── laptop_price_analysis.ipynb
 └── README.md
+
 🚀 Conclusion
 
 This project demonstrates a structured approach to data analysis by combining technical skills with business-focused storytelling. The insights derived can assist stakeholders in understanding market trends and making informed product and pricing decisions.
