@@ -1,4 +1,4 @@
-📊 Laptop Price Analysis using Python
+# 📊 Laptop Price Analysis using Python
 
 📌 Project Overview
 
